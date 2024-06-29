@@ -27,12 +27,29 @@
 <br>
 <hr>
 
-<h3 align="center">Languages - frameworks - Tools</h3>
+<section>
+  <h2 align="center">👩‍💻 Tech Stack</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,github,mongodb,postman,mysql" />
+  </a>
+</p>
+</section>
+
+<!--<h3 align="center">Languages - frameworks - Tools</h3>
 <br>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,java,github,mongodb,postman,nodejs,react,mysql,python" /><br>
-<br> </a> </div><hr>
+<br> </a> </div> -->
+
+<section align="center">
+  <h2>📚 Libraries that I've worked with</h2>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+</section>
+
+<hr>
 
 <div align="center">
   <h3> 📌My Contributions⏳ </h3> <br>
